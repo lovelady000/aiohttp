@@ -1,5 +1,5 @@
 ==================================
-Async http client/server framework
+Async http client/server framework e\
 ==================================
 
 .. image:: https://raw.githubusercontent.com/aio-libs/aiohttp/master/docs/aiohttp-plain.svg
